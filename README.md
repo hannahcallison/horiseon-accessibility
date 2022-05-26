@@ -18,7 +18,7 @@ Because we were only refactoring this page we didnt change the format or funcito
 
 The following image shows the final webpage after refactoring. As you can see, the webpage aesthetics and functions did not change, but someone using assistive technology will have a more streamlined and functional experince with the webpage.
 
-![Horiseon webpage showcasing same nav bar, header, image, and cards with text and images even with code refactoring](./Develop/assets/images/_Users_hannahcallison_Coding_horiseon-accessibility_Develop_index.html.png)
+![Horiseon webpage showcasing same nav bar, header, image, and cards with text and images even with code refactoring](./assets/images/_Users_hannahcallison_Coding_horiseon-accessibility_Develop_index.html.png)
 
 **Link to published webpage**: 
 https://hannahcallison.github.io/horiseon-accessibility/
